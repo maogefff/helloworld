@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello world aplex!\n");
+    printf("Aplex Yocto Recipe Test!\n");
 
     return 0;
 }
